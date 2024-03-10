@@ -1,0 +1,115 @@
+.ter{
+    width: 100%;
+    
+    height: 200px;
+    display: flex;
+    text-align: center;
+    position: relative;
+    align-items: center;
+}
+.our{
+    position: absolute;
+    top: 90px;
+    left: 750px;
+    font-weight: bold;
+    font-size: 30px;
+}
+.offer{
+    position: absolute;
+    top: 90px;
+    left: 810px;
+    font-weight: bold;
+    font-size: 30px;
+    color: #739dec;
+
+}
+.part{
+    position: absolute;
+    top: 140px;
+    left: 570px;
+    font-size: 13px;
+}
+.par{
+    position: absolute;
+    top: 160px;
+    left: 710px;
+    font-size: 13px;
+}
+
+
+
+
+.down{
+    width: 100%;
+    display: block;
+    height: 300px;
+    align-items: center;
+    }
+   .card{
+        width: 100px;
+        
+        align-items: center;
+        margin-left: 20px;
+        margin-right:10px ;
+        border-radius: 6px;
+        
+        background: #fff;
+        box-shadow: 0px 1px 10px rgba(0,0,0, 2);
+        cursor: default;
+        position: relative;
+        height:260px
+
+    
+   }
+   .card img{
+    width: 30px;
+    height: 30px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  align-items: center;
+  border-radius: 25px;
+  position: absolute;
+  top: 10px;
+  left: 80px;
+  border: 10px solid whitesmoke;
+
+  }
+  .card .conteido {
+    padding: 10px;
+    text-align: center;
+}
+.card .conteido p.slide{
+
+    
+     position: absolute;
+     left: 1px;
+     top: 75px;
+     bottom: 150px;
+     height: 70px;
+     width: 150px;
+     text-align:center;
+     padding-left: autopx;
+      
+
+
+  }
+  .card .conteido h3{
+    font-weight: 400px;
+    margin-bottom: 15px;
+    position: absolute;
+    top: 70px;
+    left: 70px;
+  }
+#fir{
+    margin-left :350px;
+}
+#slid{
+    background-color: #204892;
+}
+.sli{
+    color: #fff;
+}
+#slu{
+    color: #fff;
+}
